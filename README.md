@@ -7,6 +7,12 @@
 
 - 🌱 I’m currently learning **SQL**
 
+- 🚀 I'm on my journey to be a **Full Stack JAVA Developer**
+
+- 🤝 I’m looking for full-time opportunities as a **Software Developer**
+
+- 💬 Feel free **to connect with me and Ask me about anything ! ✌️**
+
 - 📫 How to reach me **devyanichanne@gmail.com**
 
 - ⚡ Fun fact **Don't wait for a chance, take risk and make it a chance !**
@@ -21,3 +27,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/DevyaniChanne"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DevyaniChanne" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devyanichanne&show_icons=true&locale=en&layout=compact" alt="devyanichanne" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devyanichanne&show_icons=true&locale=en" alt="devyanichanne" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devyanichanne&" alt="devyanichanne" /></p>
