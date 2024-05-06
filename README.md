@@ -1,5 +1,7 @@
 # 💫 About Me:
- ⚡ Hello , I’m Devyani<br>🔭 I’m on the mission to improve myself day by day .<br>👯 I’m looking for the Full stack Java Developer Role<br>🤝 I’m looking for an opportunity that will perfectly resonate with my skills<br>🌱 I’m currently learning SQL<br>💬 Ask me about my skills<br>⚡ A great team leader and player who can collaborate and brings out the best.
+ ⚡ Hello , I’m Devyani<br>🔭 I’m on the mission to improve myself day by day .<br>🚀 I'm on my journey to be a Full Stack Java Developer.</br>
+
+🤝 I’m looking for full-time opportunities as a Software Developer<br>🌱 I’m currently learning SQL<br>💬 Ask me about my skills<br>⚡ A great team leader and player who can collaborate and brings out the best. ⚡ Fun fact Don't wait for a chance, take risk and make it a chance !<br> 💬 Feel free to connect with me and Ask me about anything ! ✌️
 
 
 ## 🌐 Socials:
