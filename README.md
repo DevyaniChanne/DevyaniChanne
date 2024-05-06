@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devyani Channe</h1>
 <h3 align="center">A passionate programmer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devyanichanne&label=Profile%20views&color=0e75b6&style=flat" alt="devyanichanne" /> </p>
-<img align="center" width="400" src="https://camo.githubusercontent.com/4cb9b98860a01e6a93c5b3eb5fd5a0ae409731635562552752b75ff17b4b2167/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966 alt="Coading"/>
+
 <img align="right" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="Coading"/>
 
 
