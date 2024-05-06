@@ -1,6 +1,5 @@
 # 💫 About Me:
- ⚡ Hi 👋, I'm Devyani Channe<br>https://camo.githubusercontent.com/4cb9b98860a01e6a93c5b3eb5fd5a0ae409731635562552752b75ff17b4b2167/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966🔭 I’m on the mission to improve myself day by day .<br>🚀 I'm on my journey to be a Full Stack Java Developer.</br>
-
+ ⚡ Hi 👋, I'm <b>Devyani Channe<b><br>🔭 I’m on the mission to improve myself day by day .<br>🚀 I'm on my journey to be a Full Stack Java Developer.</br>
 🤝 I’m looking for full-time opportunities as a Software Developer<br>🌱 I’m currently learning SQL<br>💬 Ask me about my skills<br>⚡ A great team leader and player who can collaborate and brings out the best. ⚡ Fun fact Don't wait for a chance, take risk and make it a chance !<br> 💬 Feel free to connect with me and Ask me about anything ! ✌️
 
 
