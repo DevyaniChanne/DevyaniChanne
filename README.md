@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devyani Channe</h1>
 <h3 align="center">A passionate programmer from Pune, Maharashtra 🚩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devyanichanne&label=Profile%20views&color=0e75b6&style=flat" alt="devyanichanne" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devyanichanne&label=Profile%20views&color=0e75b6&style=flat" alt="devyanichanne" /> </p>
+<img alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devyanichanne" alt="devyanichanne" /></a> </p>
 
 - 🌱 I’m currently learning **SQL**
 
@@ -29,6 +29,7 @@
 <p><a href="https://www.buymeacoffee.com/DevyaniChanne"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DevyaniChanne" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devyanichanne&show_icons=true&locale=en&layout=compact" alt="devyanichanne" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devyanichanne" alt="devyanichanne" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devyanichanne&show_icons=true&locale=en" alt="devyanichanne" /></p>
 
