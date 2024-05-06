@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Devyani Channe</h1>
 <h3 align="center">A passionate programmer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devyanichanne&label=Profile%20views&color=0e75b6&style=flat" alt="devyanichanne" /> </p>
-<img align="center" alt="Coading" width="400" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwvecjzxw6k8x6wdg797.jpg" alt="Coading"/>
-<img align="right" alt="Coading" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="Coading"/>
+<img align="center" width="400" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwvecjzxw6k8x6wdg797.jpg" alt="Coading"/>
+<img align="right" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="Coading"/>
 
 
 
