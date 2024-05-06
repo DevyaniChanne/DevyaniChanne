@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devyani Channe</h1>
 <h3 align="center">A passionate programmer from Pune, Maharashtra 🚩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devyanichanne&label=Profile%20views&color=0e75b6&style=flat" alt="devyanichanne" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=devyanichanne&label=Profile%20views&color=0e75b6&style=flat" alt="devyanichanne" /> </p>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m **Continuos learner**
 
 - 🚀 I'm on my journey to be a **Full Stack JAVA Developer**
 
